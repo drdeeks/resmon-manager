@@ -52,8 +52,8 @@ A comprehensive Windows system resource monitoring and cleanup tool that helps i
 **Option 2: Manual Installation**
 1. Clone or download this repository:
    ```bash
-   git clone <repository-url>
-   cd ResourceMonitorManager
+   git clone https://github.com/drdeeks/resmon-manager.git
+   cd resmon-manager
    ```
 
 2. Install required dependencies:
@@ -360,8 +360,8 @@ Contributions are welcome! Please ensure any changes:
 
 ### Development Setup
 ```bash
-git clone <repository-url>
-cd ResourceMonitorManager
+git clone [<repository-url](https://github.com/drdeeks/resmon-manager.git)
+cd resmon-manager
 python -m venv venv
 venv\Scripts\activate  # Windows
 pip install -r requirements.txt
